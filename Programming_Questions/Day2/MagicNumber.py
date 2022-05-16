@@ -1,3 +1,4 @@
+#magicnumber
 sum1 = 0
 n = int(input("Enter a number : "))
 temp = n
